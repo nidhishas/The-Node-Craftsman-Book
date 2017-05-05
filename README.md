@@ -1,4 +1,5 @@
-#The Node Craftsman Book
+#
+The Node Craftsman Book
 This is the code repository for [The Node Craftsman Book](https://www.packtpub.com/web-development/node-craftsman-book?utm_source=github&utm_medium=repository&utm_campaign=9781787128149), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 The Node Craftsman Book helps JavaScript programmers with basic Node.js knowledge to now thoroughly master Node.js and JavaScript. This book dives you deeper into the craft of software development with Node.js and JavaScript, incuding object-orientation, test-driven development, database handling, web frameworks, and much more.
